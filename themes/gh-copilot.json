@@ -29,13 +29,13 @@
         "ghost_element.active": "#48566080", //done
         "ghost_element.selected": "#48566059", //done
         "ghost_element.disabled": "#485660", //done
-        "text": "#939da5",
-        "text.muted": null,
+        "text": "#939da5", //done
+        "text.muted": "#c9ced2", //done
         "text.placeholder": "#485660", //done
         "text.disabled": "#485660", //done
         "text.accent": "#d4dce4", //done
         "icon": "#939da5", //done
-        "icon.muted": null,
+        "icon.muted": "#707a84", //done
         "icon.disabled": "#485660", //done
         "icon.placeholder": "#485660", //done
         "icon.accent": "#d4dce4", //done
@@ -45,16 +45,16 @@
         "tab_bar.background": "#232a2f", //done
         "tab.inactive_background": "#1a2023", //done
         "tab.active_background": "#232a2f", //done
-        "search.match_background": null,
+        "search.match_background": "#ba8ef74d", //done
         "panel.background": "#1a2023", //done
         "panel.focused_border": "#939da5", //done
         "pane.focused_border": "#939da5", //done
-        "pane_group.border": "#00000060",
-        "scrollbar.thumb.background": "#d4dce433",
+        "pane_group.border": "#00000060", //revisit
+        "scrollbar.thumb.background": "#d4dce433", //done
         "scrollbar.thumb.hover_background": "#485660", //done
         "scrollbar.thumb.border": "#48566080", //done
-        "scrollbar.track.background": "#232a2f",
-        "scrollbar.track.border": null, //t
+        "scrollbar.track.background": "#232a2f", //done
+        "scrollbar.track.border": "#48566030", //done
         "editor.foreground": "#939da5", //done
         "editor.background": "#232a2f", //done
         "editor.gutter.background": "#232a2f", //done
@@ -63,89 +63,89 @@
         "editor.highlighted_line.background": null, //done
         "editor.line_number": "#707a84", //done
         "editor.active_line_number": "#d4dce4", //done
-        "editor.invisible": null,
+        "editor.invisible": "#939da566", //done
         "editor.wrap_guide": "#485660", //done
         "editor.active_wrap_guide": "#485660", //done
-        "editor.indent_guide": null,
-        "editor.indent_guide_active": null,
-        "editor.document_highlight.read_background": null,
-        "editor.document_highlight.write_background": null,
-        "terminal.background": null,
+        "editor.indent_guide": "#939da520", //done
+        "editor.indent_guide_active": "#939da550", //done
+        "editor.document_highlight.read_background": "#d4dce433", //done
+        "editor.document_highlight.write_background": "#00000050", //done
+        "terminal.background": "#232a2f", //done
         "terminal.foreground": "#939da5", //done
         "terminal.bright_foreground": "#939da5", //done
-        "terminal.dim_foreground": null,
-        "terminal.ansi.black": null,
-        "terminal.ansi.bright_black": "#485660", //done
-        "terminal.ansi.dim_black": null,
-        "terminal.ansi.red": null,
-        "terminal.ansi.bright_red": null,
-        "terminal.ansi.dim_red": null,
+        "terminal.dim_foreground": "#707a84", //done
+        "terminal.ansi.black": "#15191c", //done
+        "terminal.ansi.bright_black": "#15191c", //done
+        "terminal.ansi.dim_black": "#15191c", //done
+        "terminal.ansi.red": "#ff6a80", //done
+        "terminal.ansi.bright_red": "#ff6a80", //done
+        "terminal.ansi.dim_red": "#ff6a80", //done
         "terminal.ansi.green": "#5bec95", //done
         "terminal.ansi.bright_green": "#5bec95", //done
         "terminal.ansi.dim_green": "#5bec95", //done
-        "terminal.ansi.yellow": null,
-        "terminal.ansi.bright_yellow": null,
-        "terminal.ansi.dim_yellow": null,
-        "terminal.ansi.blue": null,
-        "terminal.ansi.bright_blue": null,
-        "terminal.ansi.dim_blue": null,
-        "terminal.ansi.magenta": null,
-        "terminal.ansi.bright_magenta": null,
-        "terminal.ansi.dim_magenta": null,
-        "terminal.ansi.cyan": null,
-        "terminal.ansi.bright_cyan": null,
-        "terminal.ansi.dim_cyan": null,
+        "terminal.ansi.yellow": "#ffea6b", //done
+        "terminal.ansi.bright_yellow": "#ffea6b", //done
+        "terminal.ansi.dim_yellow": "#ffea6b", //done
+        "terminal.ansi.blue": "#89ddff", //done
+        "terminal.ansi.bright_blue": "#89ddff", //done
+        "terminal.ansi.dim_blue": "#89ddff", //done
+        "terminal.ansi.magenta": "#ba8ef7", //done
+        "terminal.ansi.bright_magenta": "#ba8ef7", //done
+        "terminal.ansi.dim_magenta": "#ba8ef7", //done
+        "terminal.ansi.cyan": "#ffa763", //done
+        "terminal.ansi.bright_cyan": "#ffa763", //done
+        "terminal.ansi.dim_cyan": "#ffa763", //done
         "terminal.ansi.white": "#939da5", //done
-        "terminal.ansi.bright_white": null,
-        "terminal.ansi.dim_white": null,
-        "link_text.hover": null,
-        "conflict": "#d4dce4", //done
-        "conflict.background": "#d4dce4", //done
-        "conflict.border": null,
+        "terminal.ansi.bright_white": "#939da5", //done
+        "terminal.ansi.dim_white": "#c9ced2", //done
+        "link_text.hover": "#ffea6b", //done
+        "conflict": "#ba8ef7", //done
+        "conflict.background": "#1a2023",
+        "conflict.border": "#ba8ef7", //done
         "created": "#5bec95", //done
-        "created.background": null,
+        "created.background": "#1a2023",
         "created.border": "#5bec95", //done
-        "deleted": null,
-        "deleted.background": null,
-        "deleted.border": null,
-        "error": null,
-        "error.background": null,
-        "error.border": null,
+        "deleted": "#ff6a80", //done
+        "deleted.background": "#1a2023",
+        "deleted.border": "#ff6a80", //done
+        "error": "#ff6a80", //done
+        "error.background": "#1a2023",
+        "error.border": "#ff6a80", //done
         "hidden": "#485660", //done
-        "hidden.background": null,
+        "hidden.background": "#1a2023",
         "hidden.border": "#485660", //done
         "hint": "#485660", //done
-        "hint.background": null,
+        "hint.background": "#1a2023",
         "hint.border": "#485660", //done
         "ignored": "#485660", //done
-        "ignored.background": null,
+        "ignored.background": "#1a2023",
         "ignored.border": "#485660", //done
-        "info": null,
-        "info.background": "#d4dce466",
-        "info.border": null,
-        "modified": null,
-        "modified.background": null,
-        "modified.border": null,
+        "info": "#89ddff", //done
+        "info.background": "#1a2023",
+        "info.border": "#89ddff", //done
+        "modified": "#ffa763", //done
+        "modified.background": "#1a2023",
+        "modified.border": "#ffa763", //done
         "predictive": "#485660", //done
-        "predictive.background": null,
+        "predictive.background": "#1a2023",
         "predictive.border": "#485660", //done
-        "renamed": null,
-        "renamed.background": null,
-        "renamed.border": null,
+        "renamed": "#5bec95", //done
+        "renamed.background": "#1a2023",
+        "renamed.border": "#5bec95", //done
         "success": "#5bec95", //done
-        "success.background": null,
+        "success.background": "#1a2023",
         "success.border": "#5bec95", //done
-        "unreachable": null,
-        "unreachable.background": null,
-        "unreachable.border": null,
-        "warning": null,
-        "warning.background": null,
-        "warning.border": null,
+        "unreachable": "#ffea6b", //done
+        "unreachable.background": "#1a2023",
+        "unreachable.border": "#ffea6b", //done
+        "warning": "#ffa763", //done
+        "warning.background": "#1a2023",
+        "warning.border": "#ffa763", //done
         "players": [
           {
-            "cursor": "#f5e0dc", //revisit
+            "cursor": "#ba8ef7", //done
             "selection": "#48566080", //done
-            "background": "#f5e0dc" //revisit
+            "background": "#ba8ef7" //done
           }
         ],
         "syntax": {
