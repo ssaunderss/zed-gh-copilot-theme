@@ -156,7 +156,7 @@
             "font_weight": null
           },
           "boolean": {
-            "color": "#ffa763",
+            "color": "#ff8ad1",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -258,7 +258,7 @@
             "font_weight": null
           },
           "string.regex": {
-            "color": "#5bec95",
+            "color": "#939da5",
             "background_color": null,
             "font_style": null,
             "font_weight": null
