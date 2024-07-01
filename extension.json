@@ -1,8 +1,0 @@
-{
-  "id": "github-copilot-theme",
-  "name": "GitHub Copilot Theme",
-  "version": "0.0.1",
-  "authors": ["ssaunderss <austinsaunders@me.com>"],
-  "description": "IDE theme from Copilots Website, it's dark and high contrast",
-  "repository": "https://github.com/ssaunderss/zed-gh-copilot-theme"
-}
