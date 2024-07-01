@@ -4,7 +4,7 @@
   "author": "Austin Saunders <austinsaunders@me.com>",
   "themes": [
     {
-      "name": "Copilot Theme - WIP",
+      "name": "GitHub Copilot Theme - Dark",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
