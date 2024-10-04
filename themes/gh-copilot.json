@@ -180,7 +180,7 @@
             "font_weight": null
           },
           "constructor": {
-            "color": "#ff6a80",
+            "color": "#ffea6b",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -188,6 +188,11 @@
           "emphasis.strong": {
             "color": "#ba8ef7",
             "background_color": null,
+            "font_style": null,
+            "font_weight": 700
+          },
+          "enum": {
+            "color": "56adb7",
             "font_style": null,
             "font_weight": 700
           },
@@ -215,14 +220,32 @@
             "font_style": null,
             "font_weight": null
           },
+          "predoc": {
+            "color": "#ff6a80",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "primary": {
+            "color": "#ffea6b",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "property": {
+            "color": "#ba8ef7",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "punctuation": {
-            "color": "#939da5",
+            "color": "#56abd7",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "punctuation.bracket": {
-            "color": "#939da5",
+            "color": "#56abd7",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -234,13 +257,13 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#939da5",
+            "color": "#56abd7",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "punctuation.special": {
-            "color": "#939da5",
+            "color": "#56abd7",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -264,13 +287,13 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#5bec95",
+            "color": "#939da5",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "string.special.symbol": {
-            "color": "#5bec95",
+            "color": "#ba8ef7",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -282,7 +305,7 @@
             "font_weight": null
           },
           "text.literal": {
-            "color": "#5bec95",
+            "color": "#ff6a80",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -293,15 +316,44 @@
             "font_style": null,
             "font_weight": null
           },
+          "type.interface": {
+            "color": "#ffa763",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.super": {
+            "color": "#ffa763",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "variable": {
             "color": "#939da5",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
-          "variable.special": {
+          "variable.member": {
             "color": "#939da5",
             "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.parameter": {
+            "color": "#ffa763",
+            "background_color": null,
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "variable.special": {
+            "color": "#b15e7c",
+            "background_color": null,
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "variant": {
+            "color": "#ff6a80",
             "font_style": null,
             "font_weight": null
           }
